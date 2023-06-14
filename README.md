@@ -13,11 +13,11 @@ Para utilizar este script, sigue los siguientes pasos:
 Nota: Este script requiere privilegios de sudo para ejecutar los comandos de configuración de red.
 
 # EJEMPLO DE USO:
-git clone
+git clone https://github.com/CurvixSsH/mode-monitor.git
 
 cd mode-monitor
 
-$ python mon.py
+python3 mon.py
 
 Ingresa el nombre de la red: Ejemplo = wlan0
 
