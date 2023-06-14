@@ -1,7 +1,7 @@
 import subprocess
 
 def change_network_mode():
-    network_name = input("Ingresa el nombre de la red: ")
+    network_name = input("Please enter the name of the network: ")
 
     result = subprocess.run(["sudo", "ip", "link", "set", network_name, "down"], capture_output=True, text=True)
     if result.returncode != 0:
