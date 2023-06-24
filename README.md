@@ -29,3 +29,7 @@ Asegúrate de tener los permisos necesarios y de comprender las implicaciones de
 
  1. Kali linux
  2. Ubuntu
+
+# TUTORIAL
+
+https://www.youtube.com/watch?v=x674HfOxtdo&t=5s&ab_channel=CurvixSsh
